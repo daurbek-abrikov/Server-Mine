@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kasymkhan"
+      "secondName": "Kydyrbai"
+      "email": "kasymkhan@gmail.com"
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Nurbol"
+      "secondName": "Sabitov"
+      "email": "nurbol@gmail.com"
+      "password": "123456789"
+    },
+    {
+      "id": 3,
+      "name": "Kurima"
+      "secondName": "Natori"
+      "email": "kurima@gmail.com"
+      "password": "12345679"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
